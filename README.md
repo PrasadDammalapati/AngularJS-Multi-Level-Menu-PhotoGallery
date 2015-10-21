@@ -2,9 +2,9 @@
 
 Software required: node.js (https://nodejs.org/en/), git bash  (https://git-for-windows.github.io/)
 
-1)download and install git and next configure git username & emailid
-2)git config --global user.name "yourgitusername"
-3)git config --global user.email youremailid
+1)download and install git and next configure git username & emailid <br/>
+2)git config --global user.name "yourgitusername" <br/>
+3)git config --global user.email youremailid <br/>
 
 Then in git bash use the following commands
 
